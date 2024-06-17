@@ -17,7 +17,7 @@ Creating the Dashboard
 # Data Exploration :-
 # KPI
 1.**Track Popularity Score**
-Average Popularity Score: The average popularity score of all tracks.
+Average Popularity Score: The average popularity score of all tracks. 
 Top Tracks: Number of tracks with a popularity score above a certain threshold (e.g., 80).
 
 2.**Artist Performance**
